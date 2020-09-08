@@ -1,6 +1,6 @@
 # The-Sparks-Foundation
 
-Repository with all the codes of the tasks during Business Intelligence and Analytics Internship.\
+Repository with all the codes of the tasks during Business Intelligence and Analytics Internship.
 
 Task 1 - Improve your LinkedIn Profile \
 Task 2 - To Explore Supervised Machine Learning \
